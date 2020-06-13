@@ -1,5 +1,8 @@
-Achieve anonymity-yet-accoutability in VANET systems by using group signature and zk-SNARK
+# Achieve anonymity-yet-accoutability in VANET systems by using group signature and zk-SNARK
 
+### workflow
+
+```
 +----------------------------------------------------------------------------------------+
 
 gpk: group public key
@@ -33,3 +36,8 @@ pk_ve: public key of vehicle
 |  SC  | +----------------------------> |  BC  |
 |      |                                |      |
 +------+                                +------+
+```
+
+### group signature
+
+![group signature](./group-sig.png)
