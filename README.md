@@ -1,4 +1,4 @@
-# Achieve anonymity-yet-accoutability in VANET systems by using group signature and zk-SNARK
+# Achieve anonymity-yet-accoutability in blockchain-based VANET systems by using group signature
 
 ### workflow
 
@@ -25,17 +25,23 @@ pk_ve: public key of vehicle
 |         | <----------------------+ |      |
 +---------+  gsk_ve                  +------+
 
-+---------+  generate zk-SNARK proof for proving valid  +---------------+
-|         |  identity with submitted message (prover)   |               |
-| vehicle | +-----------------------------------------> | SC (verifier) |
-|         |                                             |               |
-+---------+                                             +---------------+
++---------+  sign message and post transaction  +------------+
+|         | +---------------------------------> |            |
+| vehicle |                                     | blockchain |
+|         | <---------------------------------+ |            |
++---------+  return OK                          +------------+
 
-+------+                                +------+
-|      |  run locally, verified online  |      |
-|  SC  | +----------------------------> |  BC  |
-|      |                                |      |
-+------+                                +------+
++-------+  verify signature of message  +------------+
+|       | +---------------------------> |            |
+|  RSU  |                               | blockchain |
+|       | <---------------------------+ |            |
++-------+  return OK                    +------------+
+
++------+  reveal someone's real identity by signature  +------------+
+|      | +-------------------------------------------> |            |
+|  RA  |                                               | blockchain |
+|      | <-------------------------------------------+ |            |
++------+  pk_ve                                        +------------+
 ```
 
 ### group signature
