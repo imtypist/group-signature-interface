@@ -173,19 +173,20 @@ def get_gsk_info(group_name, member_name, member_pass = ""):
         print("\tfailed_reason:", res["result"]["details"])
 
 
-if __name__ == "__main__":
-    group_name = "name of group"
-    gm_pass = "password of group manager"
-    member_name = "v0"
-    message = "m0 from v0"
-    group_sig_v0 = "ewogICAiVDEiIDogIjEwZjkzMzUwZjdiNzNkMzg4ZDgyZGIyZWQxZDE0MGY5MTdjMDRjM2I1OTkxN2JkNGRjMjNhMDRhMDRmOTQ4MTQxMDBmYjA5NmI2ZGM2ZDc0YjJiOWYxMDVmYWFlMWE2OWYzNzcxNTE2MDg1YmQ5OGNiMDQyZTkwOGM4M2Q4NDJjZDNkZiIsCiAgICJUMiIgOiAiMWJjMjgyZDU5ZmQ4NWQxNmM5ZTk2YzA5YWI3MTM5ODQwNjUwZWQ3ZTQ4MGRiOGJmM2U2MmZjMDNjMGY4Mzc2ZTAyMTI2NDdkZjE2ZTNkMjNiNTBhOTdjYzRhODA1Y2EwNTY0OTE2NWZjZGRjN2EyODI0YTc2N2NmYTllZDdmZmFiMWRjIiwKICAgIlQzIiA6ICIwMzVmZTQ0NmE0NDgyOGEzNmQ4ZTJkMmY3NzM0YTQ4YmZlMGQzMGNlYmNhMjc2OTc1MjM0ZDIwZWM1OWI3OGY1Y2UxNmRkYWQ5MzdiZDc1ZjJjZGMzZjYxZDM1Y2M4ZDRiZTFkZWM5MThkZGE5NGFiYTY5MjI4YTNmYjdhMDFjNjIwMmEiLAogICAiYyIgOiAiMjhmYzJiODg2MTVmY2Y1Yzc3OTBjNjhlY2JkODNhMGNiMGIxZTQyMGYyMmFkNTgzOGIzYjc0ZjcyN2M2YTE4OCIsCiAgICJyYWxwaGEiIDogIjFiZGU5YzY2N2RhMDE5Y2QwMThkNjA2ODUwNzliNmM3M2YxNjcwNzVhZDc5YmM0YWExNDBjMGUzMTdhYzg3YjciLAogICAicmJldGEiIDogIjM4Y2NhYTBkNDdhYzk3ZWJlMDc5NDk5MDA3ZGY1OGVhMWUzMGI1Mjg2ZGJiNzA3NGY3ODI0MGRjNmIzZDQ3Y2YiLAogICAicmRlbHRhMSIgOiAiNTkyYmEwYzIyNzczYzM4M2EzODRlYTdlM2M4MDQ2NDMxMjZmY2M5NGIyMjk1NGYzOWQyMGFmYTBiMmU2MmU0OCIsCiAgICJyZGVsdGEyIiA6ICIzM2ZkNTBiNjE5NjA5ODkxMTkyYTJiM2YyNzBmOGY5YzczODVlZTkxZTZmNTUwZTA2NjAwYTgzMzJmOGE0ZDE5IiwKICAgInJ4IiA6ICIyMzc5NmExNDQyYjUzZjkwM2E3YTI0MzIxMjI5N2FmMjFmY2Q3ODFlNjg3NTQwMzkyNGIxMjQxMGJjMzI2YjVmIgp9Cg=="
+'''interface function test'''
+# if __name__ == "__main__":
+#     group_name = "name of group"
+#     gm_pass = "password of group manager"
+#     member_name = "v0"
+#     message = "m0 from v0"
+#     group_sig_v0 = "ewogICAiVDEiIDogIjEwZjkzMzUwZjdiNzNkMzg4ZDgyZGIyZWQxZDE0MGY5MTdjMDRjM2I1OTkxN2JkNGRjMjNhMDRhMDRmOTQ4MTQxMDBmYjA5NmI2ZGM2ZDc0YjJiOWYxMDVmYWFlMWE2OWYzNzcxNTE2MDg1YmQ5OGNiMDQyZTkwOGM4M2Q4NDJjZDNkZiIsCiAgICJUMiIgOiAiMWJjMjgyZDU5ZmQ4NWQxNmM5ZTk2YzA5YWI3MTM5ODQwNjUwZWQ3ZTQ4MGRiOGJmM2U2MmZjMDNjMGY4Mzc2ZTAyMTI2NDdkZjE2ZTNkMjNiNTBhOTdjYzRhODA1Y2EwNTY0OTE2NWZjZGRjN2EyODI0YTc2N2NmYTllZDdmZmFiMWRjIiwKICAgIlQzIiA6ICIwMzVmZTQ0NmE0NDgyOGEzNmQ4ZTJkMmY3NzM0YTQ4YmZlMGQzMGNlYmNhMjc2OTc1MjM0ZDIwZWM1OWI3OGY1Y2UxNmRkYWQ5MzdiZDc1ZjJjZGMzZjYxZDM1Y2M4ZDRiZTFkZWM5MThkZGE5NGFiYTY5MjI4YTNmYjdhMDFjNjIwMmEiLAogICAiYyIgOiAiMjhmYzJiODg2MTVmY2Y1Yzc3OTBjNjhlY2JkODNhMGNiMGIxZTQyMGYyMmFkNTgzOGIzYjc0ZjcyN2M2YTE4OCIsCiAgICJyYWxwaGEiIDogIjFiZGU5YzY2N2RhMDE5Y2QwMThkNjA2ODUwNzliNmM3M2YxNjcwNzVhZDc5YmM0YWExNDBjMGUzMTdhYzg3YjciLAogICAicmJldGEiIDogIjM4Y2NhYTBkNDdhYzk3ZWJlMDc5NDk5MDA3ZGY1OGVhMWUzMGI1Mjg2ZGJiNzA3NGY3ODI0MGRjNmIzZDQ3Y2YiLAogICAicmRlbHRhMSIgOiAiNTkyYmEwYzIyNzczYzM4M2EzODRlYTdlM2M4MDQ2NDMxMjZmY2M5NGIyMjk1NGYzOWQyMGFmYTBiMmU2MmU0OCIsCiAgICJyZGVsdGEyIiA6ICIzM2ZkNTBiNjE5NjA5ODkxMTkyYTJiM2YyNzBmOGY5YzczODVlZTkxZTZmNTUwZTA2NjAwYTgzMzJmOGE0ZDE5IiwKICAgInJ4IiA6ICIyMzc5NmExNDQyYjUzZjkwM2E3YTI0MzIxMjI5N2FmMjFmY2Q3ODFlNjg3NTQwMzkyNGIxMjQxMGJjMzI2YjVmIgp9Cg=="
 
-    create_group(group_name, gm_pass)
-    join_group(group_name, member_name)
-    group_sig(group_name, member_name, message)
-    group_verify(group_name, group_sig_v0, message)
-    open_cert(group_name, group_sig_v0, message, gm_pass)
+#     create_group(group_name, gm_pass)
+#     join_group(group_name, member_name)
+#     group_sig(group_name, member_name, message)
+#     group_verify(group_name, group_sig_v0, message)
+#     open_cert(group_name, group_sig_v0, message, gm_pass)
 
-    get_public_info(group_name)
-    get_gmsk_info(group_name, gm_pass)
-    get_gsk_info(group_name, member_name)
+#     get_public_info(group_name)
+#     get_gmsk_info(group_name, gm_pass)
+#     get_gsk_info(group_name, member_name)
