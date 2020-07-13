@@ -126,6 +126,51 @@ def open_cert(group_name, group_sig, message, gm_pass):
         return 0
 
 
+def revoke_member(group_name, member_name, gm_pass):
+    data = {
+        "id": 1,
+        "jsonrpc": "2.0",
+        "method":"revoke_member",
+        "params":{
+            "group_name": group_name,
+            "revoked_member": member_name,
+            "gm_pass": gm_pass
+        }
+    }
+    r = requests.post('http://127.0.0.1:8005', data = json.dumps(data))
+    res = json.loads(r.text)
+    if res["result"]["ret_code"] == 0:
+        # print("revoke_member::success#" + str(res["result"]["ret_code"]))
+        # print("\tupdated gpk_info:", res["result"]["result"])
+        return 1
+    else:
+        print("revoke_member::error#" + str(res["result"]["ret_code"]))
+        print("\tfailed_reason:", res["result"]["details"])
+        return 0
+
+
+def update_member_private_key(group_name, member_name):
+    data = {
+        "id": 1,
+        "jsonrpc": "2.0",
+        "method":"update_member_private_key",
+        "params":{
+            "group_name": group_name,
+            "group_member": member_name
+        }
+    }
+    r = requests.post('http://127.0.0.1:8005', data = json.dumps(data))
+    res = json.loads(r.text)
+    if res["result"]["ret_code"] == 0:
+        # print("update_member_private_key::success#" + str(res["result"]["ret_code"]))
+        # print("\tupdated gsk_info:", res["result"]["result"])
+        return 1
+    else:
+        print("update_member_private_key::error#" + str(res["result"]["ret_code"]))
+        print("\tfailed_reason:", res["result"]["details"])
+        return 0
+
+
 def get_public_info(group_name):
     data = {
         "id": 1,
@@ -197,12 +242,12 @@ def test_group_sig(group_name, gm_pass, message, max_group_size = 32):
     ed = time.time()
     if ret == 0:
         return ret
-    print("create group running time (s): " + str(ed-st))
+    # print("create group running time (s): " + str(ed-st))
     # test group_size from 1 to max_size
     for i in range(max_group_size):
-        print("=========================================================")
-        print("CURRENT GROUP SIZE = " + str(i+1))
-        print("=========================================================")
+        # print("=========================================================")
+        # print("CURRENT GROUP SIZE = " + str(i+1))
+        # print("=========================================================")
 
         # join group
         member_name = group_name + str(i)
@@ -211,18 +256,18 @@ def test_group_sig(group_name, gm_pass, message, max_group_size = 32):
         ed = time.time()
         if ret == 0:
             return ret
-        print("join group running time (s): " + str(ed-st))
+        # print("join group running time (s): " + str(ed-st))
 
         # group sig
-        member_name = group_name + str(random.randint(0, i))
+        member_name = group_name + str(random.randint(0, i)) # choose one 'lucky' member randomly
         st = time.time()
         ret = group_sig(group_name, member_name, message)
         ed = time.time()
         if ret == 0:
             return ret
-        print("group sig running time (s): " + str(ed-st))
+        # print("group sig running time (s): " + str(ed-st))
 
-        sig_string = str(ret)
+        sig_string = ret
 
         # group verify
         st = time.time()
@@ -230,30 +275,56 @@ def test_group_sig(group_name, gm_pass, message, max_group_size = 32):
         ed = time.time()
         if ret == 0:
             return ret
-        print("group verify running time (s): " + str(ed-st))
+        # print("group verify running time (s): " + str(ed-st))
 
-        # # open cert
+        # open cert
         st = time.time()
         ret = open_cert(group_name, sig_string, message, gm_pass)
         ed = time.time()
         if ret == 0:
             return ret
-        print("open cert running time (s): " + str(ed-st))
+        # print("open cert running time (s): " + str(ed-st))
 
     # key size
-    print("*********************************************************")
-    print("KEY SIZE")
-    print("*********************************************************")
-    print("signature size (bytes): " + str(len(sig_string)))
-    print("group public key size (bytes): " + str(get_public_info(group_name)))
-    print("group manager secret key size (bytes): " + str(get_gmsk_info(group_name, gm_pass)))
-    print("group member secret key size (bytes): " + str(get_gsk_info(group_name, member_name)))
+    # print("*********************************************************")
+    # print("KEY SIZE")
+    # print("*********************************************************")
+    # print("signature size (bytes): " + str(len(sig_string)))
+    # print("group public key size (bytes): " + str(get_public_info(group_name)))
+    # print("group manager secret key size (bytes): " + str(get_gmsk_info(group_name, gm_pass)))
+    # print("group member secret key size (bytes): " + str(get_gsk_info(group_name, member_name)))
+
+    for i in range(max_group_size):
+        print("=========================================================")
+        print("REVOKED MEMBER = " + str(i+1))
+        print("=========================================================")
+
+        # revoke member
+        member_name = group_name + str(i)
+        st = time.time()
+        ret = revoke_member(group_name, member_name, gm_pass)
+        ed = time.time()
+        if ret == 0:
+            return ret
+        print("revoke member running time (s): " + str(ed-st))
+
+        if i == (max_group_size-1):
+            break
+
+        # update gsk for every member
+        st = time.time()
+        for j in range(i+1, max_group_size):
+            ret = update_member_private_key(group_name, group_name + str(j))
+            if ret == 0:
+                return ret
+        ed = time.time()
+        print("update gsk_info for the rest valid member running time (s): " + str(ed-st))
 
 
 '''interface function test'''
 if __name__ == "__main__":
-    group_name = "test_group_sig18_"
+    group_name = "test_group_sig29_"
     gm_pass = "test_group_sig"
     message = "0xd91c747b4a76B8013Aa336Cbc52FD95a7a9BD3D9xGPRMC,092927.000,A,2235.9058,N,11400.0518,E,0.000,74.11,151216,,Dx49"
-    max_group_size = 1024
+    max_group_size = 256
     test_group_sig(group_name, gm_pass, message, max_group_size)
