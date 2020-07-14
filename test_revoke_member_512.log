@@ -1,54 +1,1099 @@
 =========================================================
 REVOKED MEMBER = 1
 =========================================================
-revoke member running time (s): 0.011116504669189453
-update gsk_info for the rest valid member running time (s): 3.393148183822632
+revoke member running time (s): 0.011079549789428711
+update gsk_info for the rest valid member running time (s): 3.023101806640625
 =========================================================
 REVOKED MEMBER = 2
 =========================================================
-revoke member running time (s): 0.011827230453491211
-update gsk_info for the rest valid member running time (s): 4.83787989616394
+revoke member running time (s): 0.010276556015014648
+update gsk_info for the rest valid member running time (s): 4.374875068664551
 =========================================================
 REVOKED MEMBER = 3
 =========================================================
-revoke member running time (s): 0.019646644592285156
-update gsk_info for the rest valid member running time (s): 6.292098045349121
+revoke member running time (s): 0.010517358779907227
+update gsk_info for the rest valid member running time (s): 5.903354644775391
 =========================================================
 REVOKED MEMBER = 4
 =========================================================
-revoke member running time (s): 0.012151718139648438
-update gsk_info for the rest valid member running time (s): 7.688575983047485
+revoke member running time (s): 0.010450363159179688
+update gsk_info for the rest valid member running time (s): 7.16168737411499
 =========================================================
 REVOKED MEMBER = 5
 =========================================================
-revoke member running time (s): 0.011477470397949219
-update gsk_info for the rest valid member running time (s): 9.184077262878418
+revoke member running time (s): 0.011543035507202148
+update gsk_info for the rest valid member running time (s): 8.348125219345093
 =========================================================
 REVOKED MEMBER = 6
 =========================================================
-revoke member running time (s): 0.010853290557861328
-update gsk_info for the rest valid member running time (s): 10.565052509307861
+revoke member running time (s): 0.010623931884765625
+update gsk_info for the rest valid member running time (s): 9.802002429962158
 =========================================================
 REVOKED MEMBER = 7
 =========================================================
-revoke member running time (s): 0.013659477233886719
-update gsk_info for the rest valid member running time (s): 12.330008268356323
+revoke member running time (s): 0.010352611541748047
+update gsk_info for the rest valid member running time (s): 12.324737787246704
 =========================================================
 REVOKED MEMBER = 8
 =========================================================
-revoke member running time (s): 0.011602401733398438
-update gsk_info for the rest valid member running time (s): 13.39844274520874
+revoke member running time (s): 0.01109457015991211
+update gsk_info for the rest valid member running time (s): 12.4429452419281
 =========================================================
 REVOKED MEMBER = 9
 =========================================================
-revoke member running time (s): 0.01070713996887207
-update gsk_info for the rest valid member running time (s): 14.9139564037323
+revoke member running time (s): 0.010717630386352539
+update gsk_info for the rest valid member running time (s): 14.679513692855835
 =========================================================
 REVOKED MEMBER = 10
 =========================================================
-revoke member running time (s): 0.010753154754638672
-update gsk_info for the rest valid member running time (s): 16.429813623428345
+revoke member running time (s): 0.011482477188110352
+update gsk_info for the rest valid member running time (s): 15.559321403503418
 =========================================================
 REVOKED MEMBER = 11
 =========================================================
-revoke member running time (s): 0.011114120483398438
+revoke member running time (s): 0.014951229095458984
+update gsk_info for the rest valid member running time (s): 16.65291428565979
+=========================================================
+REVOKED MEMBER = 12
+=========================================================
+revoke member running time (s): 0.011152982711791992
+update gsk_info for the rest valid member running time (s): 18.538718700408936
+=========================================================
+REVOKED MEMBER = 13
+=========================================================
+revoke member running time (s): 0.013692378997802734
+update gsk_info for the rest valid member running time (s): 19.008209705352783
+=========================================================
+REVOKED MEMBER = 14
+=========================================================
+revoke member running time (s): 0.010422945022583008
+update gsk_info for the rest valid member running time (s): 20.141197681427002
+=========================================================
+REVOKED MEMBER = 15
+=========================================================
+revoke member running time (s): 0.01076960563659668
+update gsk_info for the rest valid member running time (s): 21.810612678527832
+=========================================================
+REVOKED MEMBER = 16
+=========================================================
+revoke member running time (s): 0.010554313659667969
+update gsk_info for the rest valid member running time (s): 22.705922842025757
+=========================================================
+REVOKED MEMBER = 17
+=========================================================
+revoke member running time (s): 0.015875577926635742
+update gsk_info for the rest valid member running time (s): 24.141910552978516
+=========================================================
+REVOKED MEMBER = 18
+=========================================================
+revoke member running time (s): 0.010493993759155273
+update gsk_info for the rest valid member running time (s): 24.81082272529602
+=========================================================
+REVOKED MEMBER = 19
+=========================================================
+revoke member running time (s): 0.011537790298461914
+update gsk_info for the rest valid member running time (s): 26.180381298065186
+=========================================================
+REVOKED MEMBER = 20
+=========================================================
+revoke member running time (s): 0.010524749755859375
+update gsk_info for the rest valid member running time (s): 27.362371683120728
+=========================================================
+REVOKED MEMBER = 21
+=========================================================
+revoke member running time (s): 0.010801315307617188
+update gsk_info for the rest valid member running time (s): 28.680216550827026
+=========================================================
+REVOKED MEMBER = 22
+=========================================================
+revoke member running time (s): 0.010457038879394531
+update gsk_info for the rest valid member running time (s): 30.1033673286438
+=========================================================
+REVOKED MEMBER = 23
+=========================================================
+revoke member running time (s): 0.010821342468261719
+update gsk_info for the rest valid member running time (s): 32.779173374176025
+=========================================================
+REVOKED MEMBER = 24
+=========================================================
+revoke member running time (s): 0.0108184814453125
+update gsk_info for the rest valid member running time (s): 32.90004301071167
+=========================================================
+REVOKED MEMBER = 25
+=========================================================
+revoke member running time (s): 0.010620832443237305
+update gsk_info for the rest valid member running time (s): 33.36303162574768
+=========================================================
+REVOKED MEMBER = 26
+=========================================================
+revoke member running time (s): 0.010756731033325195
+update gsk_info for the rest valid member running time (s): 34.80711078643799
+=========================================================
+REVOKED MEMBER = 27
+=========================================================
+revoke member running time (s): 0.011327028274536133
+update gsk_info for the rest valid member running time (s): 36.26244354248047
+=========================================================
+REVOKED MEMBER = 28
+=========================================================
+revoke member running time (s): 0.01053762435913086
+update gsk_info for the rest valid member running time (s): 37.06823658943176
+=========================================================
+REVOKED MEMBER = 29
+=========================================================
+revoke member running time (s): 0.01074075698852539
+update gsk_info for the rest valid member running time (s): 38.1501247882843
+=========================================================
+REVOKED MEMBER = 30
+=========================================================
+revoke member running time (s): 0.011146783828735352
+update gsk_info for the rest valid member running time (s): 39.53182601928711
+=========================================================
+REVOKED MEMBER = 31
+=========================================================
+revoke member running time (s): 0.010981559753417969
+update gsk_info for the rest valid member running time (s): 40.5259370803833
+=========================================================
+REVOKED MEMBER = 32
+=========================================================
+revoke member running time (s): 0.010754585266113281
+update gsk_info for the rest valid member running time (s): 42.79171442985535
+=========================================================
+REVOKED MEMBER = 33
+=========================================================
+revoke member running time (s): 0.010071277618408203
+update gsk_info for the rest valid member running time (s): 44.06347584724426
+=========================================================
+REVOKED MEMBER = 34
+=========================================================
+revoke member running time (s): 0.01102590560913086
+update gsk_info for the rest valid member running time (s): 43.99376130104065
+=========================================================
+REVOKED MEMBER = 35
+=========================================================
+revoke member running time (s): 0.010622262954711914
+update gsk_info for the rest valid member running time (s): 46.39088487625122
+=========================================================
+REVOKED MEMBER = 36
+=========================================================
+revoke member running time (s): 0.010514259338378906
+update gsk_info for the rest valid member running time (s): 46.67129850387573
+=========================================================
+REVOKED MEMBER = 37
+=========================================================
+revoke member running time (s): 0.012004852294921875
+update gsk_info for the rest valid member running time (s): 47.94563698768616
+=========================================================
+REVOKED MEMBER = 38
+=========================================================
+revoke member running time (s): 0.01129460334777832
+update gsk_info for the rest valid member running time (s): 48.87464451789856
+=========================================================
+REVOKED MEMBER = 39
+=========================================================
+revoke member running time (s): 0.010457992553710938
+update gsk_info for the rest valid member running time (s): 50.30431270599365
+=========================================================
+REVOKED MEMBER = 40
+=========================================================
+revoke member running time (s): 0.010444402694702148
+update gsk_info for the rest valid member running time (s): 51.21691274642944
+=========================================================
+REVOKED MEMBER = 41
+=========================================================
+revoke member running time (s): 0.010492086410522461
+update gsk_info for the rest valid member running time (s): 52.42227792739868
+=========================================================
+REVOKED MEMBER = 42
+=========================================================
+revoke member running time (s): 0.010425329208374023
+update gsk_info for the rest valid member running time (s): 53.20848846435547
+=========================================================
+REVOKED MEMBER = 43
+=========================================================
+revoke member running time (s): 0.01051187515258789
+update gsk_info for the rest valid member running time (s): 54.55325484275818
+=========================================================
+REVOKED MEMBER = 44
+=========================================================
+revoke member running time (s): 0.010739564895629883
+update gsk_info for the rest valid member running time (s): 55.56958889961243
+=========================================================
+REVOKED MEMBER = 45
+=========================================================
+revoke member running time (s): 0.010633468627929688
+update gsk_info for the rest valid member running time (s): 56.56460976600647
+=========================================================
+REVOKED MEMBER = 46
+=========================================================
+revoke member running time (s): 0.010779619216918945
+update gsk_info for the rest valid member running time (s): 57.587538957595825
+=========================================================
+REVOKED MEMBER = 47
+=========================================================
+revoke member running time (s): 0.010634660720825195
+update gsk_info for the rest valid member running time (s): 61.997331619262695
+=========================================================
+REVOKED MEMBER = 48
+=========================================================
+revoke member running time (s): 0.011110544204711914
+update gsk_info for the rest valid member running time (s): 60.93561506271362
+=========================================================
+REVOKED MEMBER = 49
+=========================================================
+revoke member running time (s): 0.01064920425415039
+update gsk_info for the rest valid member running time (s): 60.45769190788269
+=========================================================
+REVOKED MEMBER = 50
+=========================================================
+revoke member running time (s): 0.010625600814819336
+update gsk_info for the rest valid member running time (s): 61.39003229141235
+=========================================================
+REVOKED MEMBER = 51
+=========================================================
+revoke member running time (s): 0.010955810546875
+update gsk_info for the rest valid member running time (s): 62.401933670043945
+=========================================================
+REVOKED MEMBER = 52
+=========================================================
+revoke member running time (s): 0.01093912124633789
+update gsk_info for the rest valid member running time (s): 63.283647537231445
+=========================================================
+REVOKED MEMBER = 53
+=========================================================
+revoke member running time (s): 0.010337114334106445
+update gsk_info for the rest valid member running time (s): 65.43947124481201
+=========================================================
+REVOKED MEMBER = 54
+=========================================================
+revoke member running time (s): 0.010521888732910156
+update gsk_info for the rest valid member running time (s): 66.30010938644409
+=========================================================
+REVOKED MEMBER = 55
+=========================================================
+revoke member running time (s): 0.01103830337524414
+update gsk_info for the rest valid member running time (s): 67.44533395767212
+=========================================================
+REVOKED MEMBER = 56
+=========================================================
+revoke member running time (s): 0.01125788688659668
+update gsk_info for the rest valid member running time (s): 68.69237303733826
+=========================================================
+REVOKED MEMBER = 57
+=========================================================
+revoke member running time (s): 0.010804414749145508
+update gsk_info for the rest valid member running time (s): 73.58452534675598
+=========================================================
+REVOKED MEMBER = 58
+=========================================================
+revoke member running time (s): 0.010972261428833008
+update gsk_info for the rest valid member running time (s): 73.7874526977539
+=========================================================
+REVOKED MEMBER = 59
+=========================================================
+revoke member running time (s): 0.011560678482055664
+update gsk_info for the rest valid member running time (s): 74.40957188606262
+=========================================================
+REVOKED MEMBER = 60
+=========================================================
+revoke member running time (s): 0.010711193084716797
+update gsk_info for the rest valid member running time (s): 75.68054366111755
+=========================================================
+REVOKED MEMBER = 61
+=========================================================
+revoke member running time (s): 0.011348485946655273
+update gsk_info for the rest valid member running time (s): 77.31564450263977
+=========================================================
+REVOKED MEMBER = 62
+=========================================================
+revoke member running time (s): 0.010810613632202148
+update gsk_info for the rest valid member running time (s): 76.16977095603943
+=========================================================
+REVOKED MEMBER = 63
+=========================================================
+revoke member running time (s): 0.01167154312133789
+update gsk_info for the rest valid member running time (s): 77.63496947288513
+=========================================================
+REVOKED MEMBER = 64
+=========================================================
+revoke member running time (s): 0.011064767837524414
+update gsk_info for the rest valid member running time (s): 86.1456503868103
+=========================================================
+REVOKED MEMBER = 65
+=========================================================
+revoke member running time (s): 0.011178016662597656
+update gsk_info for the rest valid member running time (s): 87.21929025650024
+=========================================================
+REVOKED MEMBER = 66
+=========================================================
+revoke member running time (s): 0.01591038703918457
+update gsk_info for the rest valid member running time (s): 88.1868634223938
+=========================================================
+REVOKED MEMBER = 67
+=========================================================
+revoke member running time (s): 0.012658119201660156
+update gsk_info for the rest valid member running time (s): 89.94025349617004
+=========================================================
+REVOKED MEMBER = 68
+=========================================================
+revoke member running time (s): 0.016216039657592773
+update gsk_info for the rest valid member running time (s): 90.7315411567688
+=========================================================
+REVOKED MEMBER = 69
+=========================================================
+revoke member running time (s): 0.012067317962646484
+update gsk_info for the rest valid member running time (s): 93.35815858840942
+=========================================================
+REVOKED MEMBER = 70
+=========================================================
+revoke member running time (s): 0.011969327926635742
+update gsk_info for the rest valid member running time (s): 93.68287634849548
+=========================================================
+REVOKED MEMBER = 71
+=========================================================
+revoke member running time (s): 0.013063430786132812
+update gsk_info for the rest valid member running time (s): 95.35847353935242
+=========================================================
+REVOKED MEMBER = 72
+=========================================================
+revoke member running time (s): 0.011488914489746094
+update gsk_info for the rest valid member running time (s): 95.86655592918396
+=========================================================
+REVOKED MEMBER = 73
+=========================================================
+revoke member running time (s): 0.015810728073120117
+update gsk_info for the rest valid member running time (s): 96.29308152198792
+=========================================================
+REVOKED MEMBER = 74
+=========================================================
+revoke member running time (s): 0.01272439956665039
+update gsk_info for the rest valid member running time (s): 97.67062973976135
+=========================================================
+REVOKED MEMBER = 75
+=========================================================
+revoke member running time (s): 0.01191258430480957
+update gsk_info for the rest valid member running time (s): 100.48854994773865
+=========================================================
+REVOKED MEMBER = 76
+=========================================================
+revoke member running time (s): 0.01287388801574707
+update gsk_info for the rest valid member running time (s): 102.65340805053711
+=========================================================
+REVOKED MEMBER = 77
+=========================================================
+revoke member running time (s): 0.012909650802612305
+update gsk_info for the rest valid member running time (s): 103.15450978279114
+=========================================================
+REVOKED MEMBER = 78
+=========================================================
+revoke member running time (s): 0.012938261032104492
+update gsk_info for the rest valid member running time (s): 93.641122341156
+=========================================================
+REVOKED MEMBER = 79
+=========================================================
+revoke member running time (s): 0.01118922233581543
+update gsk_info for the rest valid member running time (s): 92.78854393959045
+=========================================================
+REVOKED MEMBER = 80
+=========================================================
+revoke member running time (s): 0.010494232177734375
+update gsk_info for the rest valid member running time (s): 92.61862635612488
+=========================================================
+REVOKED MEMBER = 81
+=========================================================
+revoke member running time (s): 0.013110876083374023
+update gsk_info for the rest valid member running time (s): 95.0541787147522
+=========================================================
+REVOKED MEMBER = 82
+=========================================================
+revoke member running time (s): 0.011243581771850586
+update gsk_info for the rest valid member running time (s): 95.15521621704102
+=========================================================
+REVOKED MEMBER = 83
+=========================================================
+revoke member running time (s): 0.011666297912597656
+update gsk_info for the rest valid member running time (s): 96.26393032073975
+=========================================================
+REVOKED MEMBER = 84
+=========================================================
+revoke member running time (s): 0.010528564453125
+update gsk_info for the rest valid member running time (s): 96.45487761497498
+=========================================================
+REVOKED MEMBER = 85
+=========================================================
+revoke member running time (s): 0.010821819305419922
+update gsk_info for the rest valid member running time (s): 98.25179648399353
+=========================================================
+REVOKED MEMBER = 86
+=========================================================
+revoke member running time (s): 0.010812997817993164
+update gsk_info for the rest valid member running time (s): 98.96531438827515
+=========================================================
+REVOKED MEMBER = 87
+=========================================================
+revoke member running time (s): 0.015323400497436523
+update gsk_info for the rest valid member running time (s): 100.04688549041748
+=========================================================
+REVOKED MEMBER = 88
+=========================================================
+revoke member running time (s): 0.01260685920715332
+update gsk_info for the rest valid member running time (s): 102.13770842552185
+=========================================================
+REVOKED MEMBER = 89
+=========================================================
+revoke member running time (s): 0.011965513229370117
+update gsk_info for the rest valid member running time (s): 105.98418021202087
+=========================================================
+REVOKED MEMBER = 90
+=========================================================
+revoke member running time (s): 0.010934114456176758
+update gsk_info for the rest valid member running time (s): 102.95844197273254
+=========================================================
+REVOKED MEMBER = 91
+=========================================================
+revoke member running time (s): 0.011072397232055664
+update gsk_info for the rest valid member running time (s): 103.19454503059387
+=========================================================
+REVOKED MEMBER = 92
+=========================================================
+revoke member running time (s): 0.010768413543701172
+update gsk_info for the rest valid member running time (s): 104.95673036575317
+=========================================================
+REVOKED MEMBER = 93
+=========================================================
+revoke member running time (s): 0.010928630828857422
+update gsk_info for the rest valid member running time (s): 106.06157064437866
+=========================================================
+REVOKED MEMBER = 94
+=========================================================
+revoke member running time (s): 0.011266946792602539
+update gsk_info for the rest valid member running time (s): 108.22403407096863
+=========================================================
+REVOKED MEMBER = 95
+=========================================================
+revoke member running time (s): 0.02366924285888672
+update gsk_info for the rest valid member running time (s): 107.6526210308075
+=========================================================
+REVOKED MEMBER = 96
+=========================================================
+revoke member running time (s): 0.010522603988647461
+update gsk_info for the rest valid member running time (s): 107.57942342758179
+=========================================================
+REVOKED MEMBER = 97
+=========================================================
+revoke member running time (s): 0.010826349258422852
+update gsk_info for the rest valid member running time (s): 108.03620862960815
+=========================================================
+REVOKED MEMBER = 98
+=========================================================
+revoke member running time (s): 0.010653257369995117
+update gsk_info for the rest valid member running time (s): 108.68695020675659
+=========================================================
+REVOKED MEMBER = 99
+=========================================================
+revoke member running time (s): 0.010584831237792969
+update gsk_info for the rest valid member running time (s): 109.30246090888977
+=========================================================
+REVOKED MEMBER = 100
+=========================================================
+revoke member running time (s): 0.014203548431396484
+update gsk_info for the rest valid member running time (s): 109.71180629730225
+=========================================================
+REVOKED MEMBER = 101
+=========================================================
+revoke member running time (s): 0.011257171630859375
+update gsk_info for the rest valid member running time (s): 113.64374589920044
+=========================================================
+REVOKED MEMBER = 102
+=========================================================
+revoke member running time (s): 0.023636341094970703
+update gsk_info for the rest valid member running time (s): 115.09790253639221
+=========================================================
+REVOKED MEMBER = 103
+=========================================================
+revoke member running time (s): 0.011008024215698242
+update gsk_info for the rest valid member running time (s): 114.16185164451599
+=========================================================
+REVOKED MEMBER = 104
+=========================================================
+revoke member running time (s): 0.010596036911010742
+update gsk_info for the rest valid member running time (s): 114.52874636650085
+=========================================================
+REVOKED MEMBER = 105
+=========================================================
+revoke member running time (s): 0.010870695114135742
+update gsk_info for the rest valid member running time (s): 115.4112012386322
+=========================================================
+REVOKED MEMBER = 106
+=========================================================
+revoke member running time (s): 0.010878562927246094
+update gsk_info for the rest valid member running time (s): 118.3736720085144
+=========================================================
+REVOKED MEMBER = 107
+=========================================================
+revoke member running time (s): 0.011945009231567383
+update gsk_info for the rest valid member running time (s): 119.13958835601807
+=========================================================
+REVOKED MEMBER = 108
+=========================================================
+revoke member running time (s): 0.010345935821533203
+update gsk_info for the rest valid member running time (s): 120.27068376541138
+=========================================================
+REVOKED MEMBER = 109
+=========================================================
+revoke member running time (s): 0.01026010513305664
+update gsk_info for the rest valid member running time (s): 118.73731303215027
+=========================================================
+REVOKED MEMBER = 110
+=========================================================
+revoke member running time (s): 0.01132512092590332
+update gsk_info for the rest valid member running time (s): 123.006662607193
+=========================================================
+REVOKED MEMBER = 111
+=========================================================
+revoke member running time (s): 0.011857032775878906
+update gsk_info for the rest valid member running time (s): 122.5041356086731
+=========================================================
+REVOKED MEMBER = 112
+=========================================================
+revoke member running time (s): 0.011365175247192383
+update gsk_info for the rest valid member running time (s): 121.08266544342041
+=========================================================
+REVOKED MEMBER = 113
+=========================================================
+revoke member running time (s): 0.011631011962890625
+update gsk_info for the rest valid member running time (s): 123.76591873168945
+=========================================================
+REVOKED MEMBER = 114
+=========================================================
+revoke member running time (s): 0.010650157928466797
+update gsk_info for the rest valid member running time (s): 122.766774892807
+=========================================================
+REVOKED MEMBER = 115
+=========================================================
+revoke member running time (s): 0.010776758193969727
+update gsk_info for the rest valid member running time (s): 123.35943508148193
+=========================================================
+REVOKED MEMBER = 116
+=========================================================
+revoke member running time (s): 0.01220846176147461
+update gsk_info for the rest valid member running time (s): 123.9467511177063
+=========================================================
+REVOKED MEMBER = 117
+=========================================================
+revoke member running time (s): 0.011455535888671875
+update gsk_info for the rest valid member running time (s): 130.4562792778015
+=========================================================
+REVOKED MEMBER = 118
+=========================================================
+revoke member running time (s): 0.011895895004272461
+update gsk_info for the rest valid member running time (s): 133.57958054542542
+=========================================================
+REVOKED MEMBER = 119
+=========================================================
+revoke member running time (s): 0.011365890502929688
+update gsk_info for the rest valid member running time (s): 129.5243158340454
+=========================================================
+REVOKED MEMBER = 120
+=========================================================
+revoke member running time (s): 0.010643959045410156
+update gsk_info for the rest valid member running time (s): 130.4914333820343
+=========================================================
+REVOKED MEMBER = 121
+=========================================================
+revoke member running time (s): 0.012656450271606445
+update gsk_info for the rest valid member running time (s): 135.69169783592224
+=========================================================
+REVOKED MEMBER = 122
+=========================================================
+revoke member running time (s): 0.011111974716186523
+update gsk_info for the rest valid member running time (s): 131.12546849250793
+=========================================================
+REVOKED MEMBER = 123
+=========================================================
+revoke member running time (s): 0.011116504669189453
+update gsk_info for the rest valid member running time (s): 138.50380969047546
+=========================================================
+REVOKED MEMBER = 124
+=========================================================
+revoke member running time (s): 0.01130533218383789
+update gsk_info for the rest valid member running time (s): 133.50187921524048
+=========================================================
+REVOKED MEMBER = 125
+=========================================================
+revoke member running time (s): 0.011823415756225586
+update gsk_info for the rest valid member running time (s): 139.50728011131287
+=========================================================
+REVOKED MEMBER = 126
+=========================================================
+revoke member running time (s): 0.010961532592773438
+update gsk_info for the rest valid member running time (s): 133.66793513298035
+=========================================================
+REVOKED MEMBER = 127
+=========================================================
+revoke member running time (s): 0.011077642440795898
+update gsk_info for the rest valid member running time (s): 137.64611554145813
+=========================================================
+REVOKED MEMBER = 128
+=========================================================
+revoke member running time (s): 0.010560989379882812
+update gsk_info for the rest valid member running time (s): 138.09467887878418
+=========================================================
+REVOKED MEMBER = 129
+=========================================================
+revoke member running time (s): 0.011538982391357422
+update gsk_info for the rest valid member running time (s): 134.6202630996704
+=========================================================
+REVOKED MEMBER = 130
+=========================================================
+revoke member running time (s): 0.011396646499633789
+update gsk_info for the rest valid member running time (s): 141.39434242248535
+=========================================================
+REVOKED MEMBER = 131
+=========================================================
+revoke member running time (s): 0.011323928833007812
+update gsk_info for the rest valid member running time (s): 136.24311709403992
+=========================================================
+REVOKED MEMBER = 132
+=========================================================
+revoke member running time (s): 0.010781288146972656
+update gsk_info for the rest valid member running time (s): 138.76492381095886
+=========================================================
+REVOKED MEMBER = 133
+=========================================================
+revoke member running time (s): 0.010449647903442383
+update gsk_info for the rest valid member running time (s): 144.52063751220703
+=========================================================
+REVOKED MEMBER = 134
+=========================================================
+revoke member running time (s): 0.011472940444946289
+update gsk_info for the rest valid member running time (s): 148.5696258544922
+=========================================================
+REVOKED MEMBER = 135
+=========================================================
+revoke member running time (s): 0.020071744918823242
+update gsk_info for the rest valid member running time (s): 151.5996401309967
+=========================================================
+REVOKED MEMBER = 136
+=========================================================
+revoke member running time (s): 0.011498212814331055
+update gsk_info for the rest valid member running time (s): 148.1274254322052
+=========================================================
+REVOKED MEMBER = 137
+=========================================================
+revoke member running time (s): 0.013659954071044922
+update gsk_info for the rest valid member running time (s): 148.34469842910767
+=========================================================
+REVOKED MEMBER = 138
+=========================================================
+revoke member running time (s): 0.011288642883300781
+update gsk_info for the rest valid member running time (s): 147.71628189086914
+=========================================================
+REVOKED MEMBER = 139
+=========================================================
+revoke member running time (s): 0.011561155319213867
+update gsk_info for the rest valid member running time (s): 147.47179651260376
+=========================================================
+REVOKED MEMBER = 140
+=========================================================
+revoke member running time (s): 0.011380910873413086
+update gsk_info for the rest valid member running time (s): 150.00668334960938
+=========================================================
+REVOKED MEMBER = 141
+=========================================================
+revoke member running time (s): 0.011501550674438477
+update gsk_info for the rest valid member running time (s): 149.2335193157196
+=========================================================
+REVOKED MEMBER = 142
+=========================================================
+revoke member running time (s): 0.01260828971862793
+update gsk_info for the rest valid member running time (s): 149.32932114601135
+=========================================================
+REVOKED MEMBER = 143
+=========================================================
+revoke member running time (s): 0.011360406875610352
+update gsk_info for the rest valid member running time (s): 148.32443118095398
+=========================================================
+REVOKED MEMBER = 144
+=========================================================
+revoke member running time (s): 0.01096487045288086
+update gsk_info for the rest valid member running time (s): 149.09416675567627
+=========================================================
+REVOKED MEMBER = 145
+=========================================================
+revoke member running time (s): 0.012310504913330078
+update gsk_info for the rest valid member running time (s): 149.32814598083496
+=========================================================
+REVOKED MEMBER = 146
+=========================================================
+revoke member running time (s): 0.011420249938964844
+update gsk_info for the rest valid member running time (s): 156.6232168674469
+=========================================================
+REVOKED MEMBER = 147
+=========================================================
+revoke member running time (s): 0.03740072250366211
+update gsk_info for the rest valid member running time (s): 156.91892337799072
+=========================================================
+REVOKED MEMBER = 148
+=========================================================
+revoke member running time (s): 0.011442422866821289
+update gsk_info for the rest valid member running time (s): 153.24877524375916
+=========================================================
+REVOKED MEMBER = 149
+=========================================================
+revoke member running time (s): 0.01167607307434082
+update gsk_info for the rest valid member running time (s): 155.64952754974365
+=========================================================
+REVOKED MEMBER = 150
+=========================================================
+revoke member running time (s): 0.010837554931640625
+update gsk_info for the rest valid member running time (s): 154.07820391654968
+=========================================================
+REVOKED MEMBER = 151
+=========================================================
+revoke member running time (s): 0.015914201736450195
+update gsk_info for the rest valid member running time (s): 157.53590869903564
+=========================================================
+REVOKED MEMBER = 152
+=========================================================
+revoke member running time (s): 0.014634847640991211
+update gsk_info for the rest valid member running time (s): 155.68073511123657
+=========================================================
+REVOKED MEMBER = 153
+=========================================================
+revoke member running time (s): 0.011327028274536133
+update gsk_info for the rest valid member running time (s): 156.54264998435974
+=========================================================
+REVOKED MEMBER = 154
+=========================================================
+revoke member running time (s): 0.011861801147460938
+update gsk_info for the rest valid member running time (s): 155.6466953754425
+=========================================================
+REVOKED MEMBER = 155
+=========================================================
+revoke member running time (s): 0.011440277099609375
+update gsk_info for the rest valid member running time (s): 156.15963578224182
+=========================================================
+REVOKED MEMBER = 156
+=========================================================
+revoke member running time (s): 0.013119697570800781
+update gsk_info for the rest valid member running time (s): 156.52167201042175
+=========================================================
+REVOKED MEMBER = 157
+=========================================================
+revoke member running time (s): 0.011350393295288086
+update gsk_info for the rest valid member running time (s): 157.83024096488953
+=========================================================
+REVOKED MEMBER = 158
+=========================================================
+revoke member running time (s): 0.014343023300170898
+update gsk_info for the rest valid member running time (s): 157.5825216770172
+=========================================================
+REVOKED MEMBER = 159
+=========================================================
+revoke member running time (s): 0.01232290267944336
+update gsk_info for the rest valid member running time (s): 155.96976566314697
+=========================================================
+REVOKED MEMBER = 160
+=========================================================
+revoke member running time (s): 0.011307954788208008
+update gsk_info for the rest valid member running time (s): 164.6135609149933
+=========================================================
+REVOKED MEMBER = 161
+=========================================================
+revoke member running time (s): 0.014156103134155273
+update gsk_info for the rest valid member running time (s): 167.2984733581543
+=========================================================
+REVOKED MEMBER = 162
+=========================================================
+revoke member running time (s): 0.012176036834716797
+update gsk_info for the rest valid member running time (s): 158.456228017807
+=========================================================
+REVOKED MEMBER = 163
+=========================================================
+revoke member running time (s): 0.010717153549194336
+update gsk_info for the rest valid member running time (s): 157.12022995948792
+=========================================================
+REVOKED MEMBER = 164
+=========================================================
+revoke member running time (s): 0.011625528335571289
+update gsk_info for the rest valid member running time (s): 159.62930917739868
+=========================================================
+REVOKED MEMBER = 165
+=========================================================
+revoke member running time (s): 0.011728525161743164
+update gsk_info for the rest valid member running time (s): 163.76943135261536
+=========================================================
+REVOKED MEMBER = 166
+=========================================================
+revoke member running time (s): 0.011240243911743164
+update gsk_info for the rest valid member running time (s): 164.76506400108337
+=========================================================
+REVOKED MEMBER = 167
+=========================================================
+revoke member running time (s): 0.010349273681640625
+update gsk_info for the rest valid member running time (s): 165.57131266593933
+=========================================================
+REVOKED MEMBER = 168
+=========================================================
+revoke member running time (s): 0.011727571487426758
+update gsk_info for the rest valid member running time (s): 170.59339547157288
+=========================================================
+REVOKED MEMBER = 169
+=========================================================
+revoke member running time (s): 0.011110782623291016
+update gsk_info for the rest valid member running time (s): 173.44057655334473
+=========================================================
+REVOKED MEMBER = 170
+=========================================================
+revoke member running time (s): 0.015225410461425781
+update gsk_info for the rest valid member running time (s): 171.4235806465149
+=========================================================
+REVOKED MEMBER = 171
+=========================================================
+revoke member running time (s): 0.012818574905395508
+update gsk_info for the rest valid member running time (s): 166.29078555107117
+=========================================================
+REVOKED MEMBER = 172
+=========================================================
+revoke member running time (s): 0.010515928268432617
+update gsk_info for the rest valid member running time (s): 168.04390406608582
+=========================================================
+REVOKED MEMBER = 173
+=========================================================
+revoke member running time (s): 0.012608528137207031
+update gsk_info for the rest valid member running time (s): 172.97262406349182
+=========================================================
+REVOKED MEMBER = 174
+=========================================================
+revoke member running time (s): 0.011514425277709961
+update gsk_info for the rest valid member running time (s): 166.3039801120758
+=========================================================
+REVOKED MEMBER = 175
+=========================================================
+revoke member running time (s): 0.010848283767700195
+update gsk_info for the rest valid member running time (s): 166.01000690460205
+=========================================================
+REVOKED MEMBER = 176
+=========================================================
+revoke member running time (s): 0.011245965957641602
+update gsk_info for the rest valid member running time (s): 168.94803166389465
+=========================================================
+REVOKED MEMBER = 177
+=========================================================
+revoke member running time (s): 0.011775493621826172
+update gsk_info for the rest valid member running time (s): 170.62869000434875
+=========================================================
+REVOKED MEMBER = 178
+=========================================================
+revoke member running time (s): 0.011785745620727539
+update gsk_info for the rest valid member running time (s): 173.1643259525299
+=========================================================
+REVOKED MEMBER = 179
+=========================================================
+revoke member running time (s): 0.011405706405639648
+update gsk_info for the rest valid member running time (s): 170.9835548400879
+=========================================================
+REVOKED MEMBER = 180
+=========================================================
+revoke member running time (s): 0.010767221450805664
+update gsk_info for the rest valid member running time (s): 167.77168536186218
+=========================================================
+REVOKED MEMBER = 181
+=========================================================
+revoke member running time (s): 0.010602474212646484
+update gsk_info for the rest valid member running time (s): 170.89585041999817
+=========================================================
+REVOKED MEMBER = 182
+=========================================================
+revoke member running time (s): 0.013779640197753906
+update gsk_info for the rest valid member running time (s): 176.95858025550842
+=========================================================
+REVOKED MEMBER = 183
+=========================================================
+revoke member running time (s): 0.011428356170654297
+update gsk_info for the rest valid member running time (s): 168.72423648834229
+=========================================================
+REVOKED MEMBER = 184
+=========================================================
+revoke member running time (s): 0.011152982711791992
+update gsk_info for the rest valid member running time (s): 168.1378138065338
+=========================================================
+REVOKED MEMBER = 185
+=========================================================
+revoke member running time (s): 0.011079072952270508
+update gsk_info for the rest valid member running time (s): 168.86631298065186
+=========================================================
+REVOKED MEMBER = 186
+=========================================================
+revoke member running time (s): 0.012079715728759766
+update gsk_info for the rest valid member running time (s): 170.906268119812
+=========================================================
+REVOKED MEMBER = 187
+=========================================================
+revoke member running time (s): 0.012032508850097656
+update gsk_info for the rest valid member running time (s): 171.33519101142883
+=========================================================
+REVOKED MEMBER = 188
+=========================================================
+revoke member running time (s): 0.01132822036743164
+update gsk_info for the rest valid member running time (s): 169.32778596878052
+=========================================================
+REVOKED MEMBER = 189
+=========================================================
+revoke member running time (s): 0.010499954223632812
+update gsk_info for the rest valid member running time (s): 171.05906438827515
+=========================================================
+REVOKED MEMBER = 190
+=========================================================
+revoke member running time (s): 0.010866880416870117
+update gsk_info for the rest valid member running time (s): 174.95923137664795
+=========================================================
+REVOKED MEMBER = 191
+=========================================================
+revoke member running time (s): 0.010771512985229492
+update gsk_info for the rest valid member running time (s): 171.21162462234497
+=========================================================
+REVOKED MEMBER = 192
+=========================================================
+revoke member running time (s): 0.011104345321655273
+update gsk_info for the rest valid member running time (s): 173.967453956604
+=========================================================
+REVOKED MEMBER = 193
+=========================================================
+revoke member running time (s): 0.01072549819946289
+update gsk_info for the rest valid member running time (s): 179.12226009368896
+=========================================================
+REVOKED MEMBER = 194
+=========================================================
+revoke member running time (s): 0.011243820190429688
+update gsk_info for the rest valid member running time (s): 173.11769461631775
+=========================================================
+REVOKED MEMBER = 195
+=========================================================
+revoke member running time (s): 0.010861873626708984
+update gsk_info for the rest valid member running time (s): 174.6040177345276
+=========================================================
+REVOKED MEMBER = 196
+=========================================================
+revoke member running time (s): 0.011653661727905273
+update gsk_info for the rest valid member running time (s): 174.3478443622589
+=========================================================
+REVOKED MEMBER = 197
+=========================================================
+revoke member running time (s): 0.011445045471191406
+update gsk_info for the rest valid member running time (s): 180.1983721256256
+=========================================================
+REVOKED MEMBER = 198
+=========================================================
+revoke member running time (s): 0.011172771453857422
+update gsk_info for the rest valid member running time (s): 178.32496404647827
+=========================================================
+REVOKED MEMBER = 199
+=========================================================
+revoke member running time (s): 0.011904716491699219
+update gsk_info for the rest valid member running time (s): 176.48996782302856
+=========================================================
+REVOKED MEMBER = 200
+=========================================================
+revoke member running time (s): 0.010957002639770508
+update gsk_info for the rest valid member running time (s): 177.5496220588684
+=========================================================
+REVOKED MEMBER = 201
+=========================================================
+revoke member running time (s): 0.011227607727050781
+update gsk_info for the rest valid member running time (s): 180.7591552734375
+=========================================================
+REVOKED MEMBER = 202
+=========================================================
+revoke member running time (s): 0.010748624801635742
+update gsk_info for the rest valid member running time (s): 179.21336150169373
+=========================================================
+REVOKED MEMBER = 203
+=========================================================
+revoke member running time (s): 0.010677337646484375
+update gsk_info for the rest valid member running time (s): 174.510315656662
+=========================================================
+REVOKED MEMBER = 204
+=========================================================
+revoke member running time (s): 0.01156926155090332
+update gsk_info for the rest valid member running time (s): 173.26555705070496
+=========================================================
+REVOKED MEMBER = 205
+=========================================================
+revoke member running time (s): 0.018776416778564453
+update gsk_info for the rest valid member running time (s): 173.40706968307495
+=========================================================
+REVOKED MEMBER = 206
+=========================================================
+revoke member running time (s): 0.01099395751953125
+update gsk_info for the rest valid member running time (s): 176.1092450618744
+=========================================================
+REVOKED MEMBER = 207
+=========================================================
+revoke member running time (s): 0.01221776008605957
+update gsk_info for the rest valid member running time (s): 176.09700894355774
+=========================================================
+REVOKED MEMBER = 208
+=========================================================
+revoke member running time (s): 0.01070094108581543
+update gsk_info for the rest valid member running time (s): 165.34875440597534
+=========================================================
+REVOKED MEMBER = 209
+=========================================================
+revoke member running time (s): 0.017552852630615234
+update gsk_info for the rest valid member running time (s): 163.28039836883545
+=========================================================
+REVOKED MEMBER = 210
+=========================================================
+revoke member running time (s): 0.01105642318725586
+update gsk_info for the rest valid member running time (s): 169.37124609947205
+=========================================================
+REVOKED MEMBER = 211
+=========================================================
+revoke member running time (s): 0.011068582534790039
+update gsk_info for the rest valid member running time (s): 170.27858662605286
+=========================================================
+REVOKED MEMBER = 212
+=========================================================
+revoke member running time (s): 0.010783672332763672
+update gsk_info for the rest valid member running time (s): 171.48974180221558
+=========================================================
+REVOKED MEMBER = 213
+=========================================================
+revoke member running time (s): 0.011003255844116211
+update gsk_info for the rest valid member running time (s): 172.23493099212646
+=========================================================
+REVOKED MEMBER = 214
+=========================================================
+revoke member running time (s): 0.02024531364440918
+update gsk_info for the rest valid member running time (s): 172.09638357162476
+=========================================================
+REVOKED MEMBER = 215
+=========================================================
+revoke member running time (s): 0.010549306869506836
+update gsk_info for the rest valid member running time (s): 168.0315067768097
+=========================================================
+REVOKED MEMBER = 216
+=========================================================
+revoke member running time (s): 0.010475397109985352
+update gsk_info for the rest valid member running time (s): 166.32774567604065
+=========================================================
+REVOKED MEMBER = 217
+=========================================================
+revoke member running time (s): 0.01049184799194336
+update gsk_info for the rest valid member running time (s): 164.94453597068787
+=========================================================
+REVOKED MEMBER = 218
+=========================================================
+revoke member running time (s): 0.01083517074584961
+update gsk_info for the rest valid member running time (s): 168.45430827140808
+=========================================================
+REVOKED MEMBER = 219
+=========================================================
+revoke member running time (s): 0.010283946990966797
+update gsk_info for the rest valid member running time (s): 167.56237745285034
+=========================================================
+REVOKED MEMBER = 220
+=========================================================
+revoke member running time (s): 0.010484457015991211

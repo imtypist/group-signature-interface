@@ -323,8 +323,8 @@ def test_group_sig(group_name, gm_pass, message, max_group_size = 32):
 
 '''interface function test'''
 if __name__ == "__main__":
-    group_name = "test_group_sig29_"
+    group_name = "test_group_sig32_"
     gm_pass = "test_group_sig"
     message = "0xd91c747b4a76B8013Aa336Cbc52FD95a7a9BD3D9xGPRMC,092927.000,A,2235.9058,N,11400.0518,E,0.000,74.11,151216,,Dx49"
-    max_group_size = 256
+    max_group_size = 512
     test_group_sig(group_name, gm_pass, message, max_group_size)
